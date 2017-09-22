@@ -1,0 +1,19 @@
+{
+  "name": "timestamp-microservice",
+  "version": "0.0.1",
+  "description": "produces a unix timestamp and natural language date from either",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "4.15.4"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/welcome-project"
+  },
+  "license": "MIT"
+}
